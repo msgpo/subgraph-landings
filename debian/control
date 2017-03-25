@@ -1,0 +1,18 @@
+Source: subgraph-landing
+Section: network
+Priority: optional
+Maintainer: Subgraph <info@subgraph.com>
+Build-Depends: debhelper (>= 10), dh-systemd
+Standards-Version: 3.9.8
+Homepage: https://github.com/subgraph/subgraph-landing
+Vcs-Git: https://github.com/subgraph/subgraph-landing.git
+XS-Go-Import-Path: github.com/subgraph/subgraph-landing
+Vcs-Browser: https://github.com/subgraph/subgraph-landing
+
+Package: subgraph-landing
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Subgraph Landing Pages
+ This package contains landing pages for specialty browsers
+ packaged in Subgraph OS. It is nothing more than a few html and css
+ files used to distinguish browsers on launch.
