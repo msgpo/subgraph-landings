@@ -1,5 +1,5 @@
 Source: subgraph-landing
-Section: network
+Section: net
 Priority: optional
 Maintainer: Subgraph <info@subgraph.com>
 Build-Depends: debhelper (>= 10), dh-systemd
