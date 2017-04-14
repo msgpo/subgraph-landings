@@ -1,15 +1,15 @@
-Source: subgraph-landing
+Source: subgraph-landings
 Section: net
 Priority: optional
 Maintainer: Subgraph <info@subgraph.com>
 Build-Depends: debhelper (>= 10), dh-systemd
 Standards-Version: 3.9.8
-Homepage: https://github.com/subgraph/subgraph-landing
-Vcs-Git: https://github.com/subgraph/subgraph-landing.git
-XS-Go-Import-Path: github.com/subgraph/subgraph-landing
-Vcs-Browser: https://github.com/subgraph/subgraph-landing
+Homepage: https://github.com/subgraph/subgraph-landings
+Vcs-Git: https://github.com/subgraph/subgraph-landings.git
+XS-Go-Import-Path: github.com/subgraph/subgraph-landings
+Vcs-Browser: https://github.com/subgraph/subgraph-landings
 
-Package: subgraph-landing
+Package: subgraph-landings
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Subgraph Landing Pages

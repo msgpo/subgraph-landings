@@ -1,4 +1,4 @@
-subgraph-landing (0.0.1-1) testing; urgency=medium
+subgraph-landings (0.0.1-1) testing; urgency=medium
 
   * Initial packaging of Subgraph Landing Pages
 
