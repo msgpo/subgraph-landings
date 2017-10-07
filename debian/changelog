@@ -1,3 +1,9 @@
+subgraph-landings (0.0.2-1.1) testing; urgency=medium
+
+  * Added Chromium-vpn landing page
+
+ -- Subgraph <info@subgraph.com>  Sat, 7 Oct 2017 19:20:00 +0000
+
 subgraph-landings (0.0.1-1.1) testing; urgency=medium
 
   * Initial packaging of Subgraph Landing Pages 
