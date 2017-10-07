@@ -11,6 +11,11 @@ body[onion] {
 	background-repeat: no-repeat !important;
 	background-color: rgb(200, 200, 200) !important;
 }
+body[vpn] {
+	background-image: -webkit-linear-gradient(top, #3F6F89, #3F6F89 20%, #C8C8C8 100%, #C8C8C8) !important;
+	background-repeat: no-repeat !important;
+	background-color: rgb(200, 200, 200) !important;
+}
 main {
 	width: 795px;
 	height: 100%;
